@@ -1,0 +1,37 @@
+button{
+    padding: 10px;
+    font-size: large;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    border: 1px solid rgb(2, 13, 218);
+    border-radius: 20px;
+    background-color: rgb(88, 88, 234);
+    
+}
+button:hover{
+    background-color: rgb(95, 243, 243);
+}
+.Function{
+    border:2px solid tomato;
+    border-radius: 10px;
+    background-color: rgb(37, 202, 202);
+    width: 500px;
+    padding: 20px;
+    text-shadow: none;
+    position: fixed;
+    left: 800px;
+    top: 300px;
+}
+.second{
+    border:2px solid tomato;
+    padding: 20px;
+    width: 500px;
+    border-radius: 10px;
+    background-color: rgb(37, 202, 202);
+   position: fixed;
+    top: 300px;
+    left: 150px;
+}
+
+
